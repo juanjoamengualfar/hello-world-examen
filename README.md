@@ -29,5 +29,5 @@
 
 
 # Paso extra
-<p>Si queremos añadir algun colaborador para que nos ayude en la elaboracion del proyecto deberemos darle a 
+<p>Si queremos añadir algun colaborador para que nos ayude en la elaboracion del proyecto deberemos darle a "Settings", despues dirigirnos al apartado "Collaborators", le damos a "Add people" y allí escribimos el nombre de los usuarios que queremos añadir</p>
 
