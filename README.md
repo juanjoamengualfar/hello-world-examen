@@ -24,5 +24,10 @@
 
 
 # Quinto paso
-<p>El quinto y último paso sera fusionar la nueva rama que hemos creado con la rama creada por defecto "main", para ello nos dirigiremos al apartado que se encuentra arriba a la izquierda llamado "Pull requests", despues nos dirigiremos al boton verde llamado "New pull request", lo siguiente sera crear la peticion dandole a "Create pull request"</p>
+<p>El quinto y último paso sera fusionar la nueva rama que hemos creado con la rama creada por defecto "main", para ello nos dirigiremos al apartado que se encuentra arriba a la izquierda llamado "Compare & pull requests", lo siguiente sera crear la peticion dandole a "Create pull request", depues nos dirigiremos al boton que dice "Merge pull request" para comenzar la peticion de fusión, una vez hecho esto confirmaremos la peticion de fusion clicando en "Confirm merge" y una vez realizado este paso ya tendremos nuestras dos ramas completamente fusionadas, ahora se nos da la opcion de eliminar esa rama porque ya la hemos fusionado con la principal y ya no es de utilidad a menos que queramos seguir trabajando en ella, hecho esto ya habriamos terminado</p>
+
+
+
+# Paso extra
+<p>Si queremos añadir algun colaborador para que nos ayude en la elaboracion del proyecto deberemos darle a 
 
